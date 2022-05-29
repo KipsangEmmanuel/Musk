@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.img{
+    float: left;
+    text-align: center;
+}
+button{
+    background-color: RED;
+    font-size: large;
+    color: white;
+}
+.right{
+    color: white;
+}
